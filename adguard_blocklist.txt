@@ -47,3 +47,4 @@
 /rdddeck.*/
 /scrollgeek.*/
 /viewittapp.*/
+||testsite.com^
