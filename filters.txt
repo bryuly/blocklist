@@ -15,10 +15,10 @@
 ||scrolller.com^
 ||reddtastic.com^
 ||redditix.com^
-||flickr.com^$important
-||miamur.shop^$important
-||missimpreza.com^$important
-||lavky.com^$important
+||flickr.com^
+||miamur.shop^
+||missimpreza.com^
+||lavky.com^
 /viewittapp.*/
 ||overdevs.com^
 /rdddeck.*/
@@ -40,4 +40,3 @@
 ||variety.com^
 ||zinio.com^
 ||instyle.com^
-||flickr.com^
