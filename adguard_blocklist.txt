@@ -4,16 +4,14 @@
 ! Version: 1.24.12
 ! Last modified: 2024-12-05
 !
-
+!
 ! start allow list
 @@||roku.com^
-
-
+!
+!
 ! start block list
-
 ! browsers
 ||brave.com^
-
 ! News/Magazines
 ||cosmopolitan.com^
 ||self.com^
@@ -23,7 +21,6 @@
 ||variety.com^
 ||zinio.com^
 ||instyle.com^
-
 ! explicit content
 ||sexpics24.com^
 ||scrolller.com^
@@ -42,12 +39,10 @@
 ||trashy.com^
 ||redgifs.com^
 ||redgifs-creators.com^
-
 ||yse-paris.com^
 ||maison123.com^
 ||li-vy.com^
 ||etam-groupe.com^
-
 /xnxx.*/
 /rdddeck.*/
 /scrollgeek.*/
