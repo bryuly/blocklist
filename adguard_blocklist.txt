@@ -5,16 +5,16 @@
 ! Last modified: 2024-12-05
 !
 
-!start allow list
+! start allow list
 @@||roku.com^
 
 
-!start block list
+! start block list
 
-!browsers
+! browsers
 ||brave.com^
 
-!News/Magazines
+! News/Magazines
 ||cosmopolitan.com^
 ||self.com^
 ||si.com^
@@ -24,7 +24,7 @@
 ||zinio.com^
 ||instyle.com^
 
-!explicit content
+! explicit content
 ||sexpics24.com^
 ||scrolller.com^
 ||reddtastic.com^
@@ -33,10 +33,7 @@
 ||miamur.shop^
 ||missimpreza.com^
 ||lavky.com^
-/viewittapp.*/
 ||overdevs.com^
-/rdddeck.*/
-/scrollgeek.*/
 ||ausshir.github.io/rdx/^
 ||images.search.yahoo.com^
 ||pornnoble.com^
@@ -45,9 +42,13 @@
 ||trashy.com^
 ||redgifs.com^
 ||redgifs-creators.com^
-/xnxx.*/
 
 ||yse-paris.com^
 ||maison123.com^
 ||li-vy.com^
 ||etam-groupe.com^
+
+/xnxx.*/
+/rdddeck.*/
+/scrollgeek.*/
+/viewittapp.*/
