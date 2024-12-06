@@ -1,0 +1,43 @@
+!
+! Title: Brad's Personal Blocklist
+! Description: List of sites to block
+! Version: 1.24.12
+! Last modified: 2024-12-05
+!
+
+!start allow list
+@@||roku.com^
+
+
+!start block list
+||brave.com^
+||sexpics24.com^
+||scrolller.com^
+||reddtastic.com^
+||redditix.com^
+||flickr.com^$important
+||miamur.shop^$important
+||missimpreza.com^$important
+||lavky.com^$important
+/viewittapp.*/
+||overdevs.com^
+/rdddeck.*/
+/scrollgeek.*/
+||ausshir.github.io/rdx/^
+||images.search.yahoo.com^
+/pornnoble.*/
+||yep.com^
+||gibiru.com^
+||trashy.com^
+/redgifs.*/
+/xnxx.*/
+/redgifs-creators.*/
+||cosmopolitan.com^
+||self.com^
+/si.*/
+||gq.com^
+/vogue.*/
+||variety.com^
+||zinio.com^
+||instyle.com^
+||flickr.com^
